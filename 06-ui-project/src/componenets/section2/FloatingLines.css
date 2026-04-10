@@ -1,0 +1,4 @@
+.floating-lines-container {
+  position: relative;
+  overflow: hidden;
+}
