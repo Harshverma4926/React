@@ -7,7 +7,7 @@ import { ChartNoAxesColumnDecreasing } from 'lucide-react'
 const RightCard = () => {
   return (
     <div >
-        <div className=''>
+        <div>
         <div className="absolute bottom-80  left-11  px-2 py-2 bg-white rounded-full shadow-[0_20px_50px_rgba(8,_112,_184,_0.7)] flex items-center  gap-2">
       <span className="text-[13px] font-extrabold ">Mobile Accessibility</span>
       <Plus className='bg-orange-500 rounded-full hover:scale-130 transition duration-200 hover:bg-orange-700 hover:cursor-pointer' size={25} color='white' strokeWidth={2} />
